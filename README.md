@@ -1,1 +1,1 @@
-# eventbridge-framework
+# eb-framework
